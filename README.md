@@ -1,2 +1,3 @@
 Final foundations projects.
-Just a simple movie website with can do basic functionalities..
+Just a simple movie website which can do basic functionalities...
+It was a personal project for alx fullstack software engineering track
